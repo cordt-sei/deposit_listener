@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "name": "tmwebsocket",
+  "packageManager": "yarn@4.5.2"
+}
