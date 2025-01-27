@@ -1,5 +1,13 @@
 {
   "type": "module",
   "name": "tmwebsocket",
-  "packageManager": "yarn@4.5.2"
+  "packageManager": "yarn@1.22.22",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cordt <Cordt@seifdn.org>",
+  "license": "MIT",
+  "dependencies": {
+    "bech32": "^2.0.0"
+  }
 }
